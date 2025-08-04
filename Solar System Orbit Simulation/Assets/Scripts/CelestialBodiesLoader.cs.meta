@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6ebcd28536e24d64db8505ac1adbbdae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - planetPrefab: {fileID: 8286487662153371024, guid: dbb8a7f63c111f541a8ea281633c89ad, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
